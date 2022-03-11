@@ -3,7 +3,7 @@
 
 The goal of this project is to implement Wolfram’s elementary cellular automaton in the terminal.
 
-[https://en.wikipedia.org/wiki/Elementary_cellular_automaton]
+[https://en.wikipedia.org/wiki/Elementary_cellular_automaton](https://en.wikipedia.org/wiki/Elementary_cellular_automaton)
 
 You only have to implement rule 30, rule 90 and rule 110. The other rules are considered a bonus.
 
